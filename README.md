@@ -14,7 +14,10 @@
 - 📄 CV [https://drive.google.com/file/d/15LQtZSKGcAabAvPwgeG_rqirKJLC3_bj/view?usp=sharing](https://drive.google.com/file/d/15LQtZSKGcAabAvPwgeG_rqirKJLC3_bj/view?usp=sharing)
 
 - ⚡ Fun fact **When I'm not coding , I'm usually diving into new datasets to find interesting trends or learning the latest trends in Machine Learning**
+## 📂 Projects
+-[Milky Chocolate Factory Database ] https://github.com/Chantel-Phaahla/Milkyfactory-database.githttps://
 
+o         [Smart Trash Sort
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/chantel-phaahla-22b46b345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chantel-phaahla-22b46b345" height="30" width="40" /></a>
