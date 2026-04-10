@@ -20,9 +20,8 @@
 -[Innovative Architectural Design Website] https://github.com/Chantel-Phaahla/architectural-design-
 -[Sports & Event Scheduling System] https://github.com/Chantel-Phaahla/-csharp.git
 
-website2.git
 
-o         [Smart Trash Sort
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/chantel-phaahla-22b46b345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chantel-phaahla-22b46b345" height="30" width="40" /></a>
