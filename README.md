@@ -11,11 +11,15 @@
 
 - 📫 How to reach me **chantelphaahla04@gmail.com linkedin.com/in/chantel-phaahla-22b46b345**
 
-- 📄 CV [https://drive.google.com/file/d/15LQtZSKGcAabAvPwgeG_rqirKJLC3_bj/view?usp=sharing](https://drive.google.com/file/d/15LQtZSKGcAabAvPwgeG_rqirKJLC3_bj/view?usp=sharing)
+- 📄 CV https://github.com/Chantel-Phaahla/CV.git
 
 - ⚡ Fun fact **When I'm not coding , I'm usually diving into new datasets to find interesting trends or learning the latest trends in Machine Learning**
 ## 📂 Projects
 -[Milky Chocolate Factory Database ] https://github.com/Chantel-Phaahla/Milkyfactory-database.git
+-[Superhero Database System] https://github.com/Chantel-Phaahla/-c-ADO.NET-.git
+-[Innovative Architectural Design Website] https://github.com/Chantel-Phaahla/architectural-design-
+
+website2.git
 
 o         [Smart Trash Sort
 <h3 align="left">Connect with me:</h3>
