@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **When I'm not coding , I'm usually diving into new datasets to find interesting trends or learning the latest trends in Machine Learning**
 ## 📂 Projects
--[Milky Chocolate Factory Database ] https://github.com/Chantel-Phaahla/Milkyfactory-database.githttps://
+-[Milky Chocolate Factory Database ] https://github.com/Chantel-Phaahla/Milkyfactory-database.git
 
 o         [Smart Trash Sort
 <h3 align="left">Connect with me:</h3>
