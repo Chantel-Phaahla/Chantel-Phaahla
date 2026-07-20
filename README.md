@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chantel Phaahla</h1>
 <h3 align="center">Business Intelligence Student | Aspiring Data Scientist 3rd-year Bachelor of Computing student at Belgium Campus iTversity, passionate about bridging the gap between database systems and data-driven insights.</h3>
 
-- 🔭 **I am currently developing InternTrack, a full-stack internship application tracker using HTML, CSS, JavaScript, and SQL Server.**
+- 🔭 **I am currently developing a customer churn prediction project.**
 
 - 🌱 I’m currently learning **Python for data analysis, with a focus on Pandas and NumPy for data manipulation and workflow development. I am also building my understanding of Exploratory Data Analysis (EDA), data visualization, and basic Machine Learning concepts. In addition, I am improving my skills in PHP for CRUD operations and strengthening my Git and GitHub version control practices.**
 
