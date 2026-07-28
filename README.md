@@ -1,27 +1,28 @@
 <h1 align="center">Hi 👋, I'm Chantel Phaahla</h1>
-<h3 align="center">Business Intelligence Student | Aspiring Data Scientist 3rd-year Bachelor of Computing student at Belgium Campus iTversity, passionate about bridging the gap between database systems and data-driven insights.</h3>
+<h3 align="center">Business Intelligence & Data science student at Belgium Campus iTversity.</h3>
 
-- 🔭 **I am currently developing a customer churn prediction project.**
+- 🔭 **Passionate about Data Analysis , Data science**
 
-- 🌱 I’m currently learning **Python for data analysis, with a focus on Pandas and NumPy for data manipulation and workflow development. I am also building my understanding of Exploratory Data Analysis (EDA), data visualization, and basic Machine Learning concepts. In addition, I am improving my skills in PHP for CRUD operations and strengthening my Git and GitHub version control practices.**
+  💼 Seeking internship/graduate opportunities in Data science/ Data analysis
 
-- 👯 Collaborative Experience **I enjoy working in team enviroments!I've sucessfully contributed to several group academic projects , using GitHub for version control and collaborative coding**
+- 👯 Collaborative Experience **I enjoy working in team enviroments!I've sucessfully contributed to several group academic projects**
 
-- 💬 Ask me about **Web development (HTML, CSS, JavaScript), SQL database design (joins, queries, normalization), and building academic projects using full-stack fundamentals.**
-
+- 🚀 Skills
+  Programming: Python , JavaScript , C# ,SQL 
+   Tools : Jypter notebook , Vs code , Visual studio 
 - 📫 How to reach me **chantelphaahla04@gmail.com linkedin.com/in/chantel-phaahla-22b46b345**
 
 - 📄 CV https://github.com/Chantel-Phaahla/CV.git
 
 - ⚡ Fun fact **When I'm not coding , I'm usually diving into new datasets to find interesting trends or learning the latest trends in Machine Learning**
 ## 📂 Projects
--[Milky Chocolate Factory Database ] https://github.com/Chantel-Phaahla/Milkyfactory-database.git
+-Stroke-prediction : https://github.com/Chantel-Phaahla/Chantel-Phaahla-stroke-prediction-ml
 
--[Superhero Database System] https://github.com/Chantel-Phaahla/-c-ADO.NET-.git
+- customer-churn project: https://github.com/Chantel-Phaahla/customer-churn
 
--[Innovative Architectural Design Website] https://github.com/Chantel-Phaahla/architectural-design-
+- Milkfactory project :https://github.com/Chantel-Phaahla/Milkyfactory-database
 
--[Sports & Event Scheduling System] https://github.com/Chantel-Phaahla/-csharp.git
+-
 
 
 
